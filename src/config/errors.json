@@ -1,0 +1,11 @@
+{
+  "verifyToken": {
+    "errors": [
+      {
+        "message": "No valid TOKEN in HTTP HEADERS: Authorization: Bearer __TOKEN__",
+        "info": "https://inzetrooster.nl/api"
+      }
+    ]
+  }
+}
+
